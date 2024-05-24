@@ -1,0 +1,112 @@
+{
+  "questions": [
+    {
+      "category": "default",
+      "correct_answer": "09/2023",
+      "difficulty": "easy",
+      "incorrect_answers": ["08/2023", "10/2023", "11/2023"],
+      "question": "Em que mês nós 4 nos conhecemos?",
+      "type": "multiple"
+    },
+    {
+      "category": "default",
+      "correct_answer": "Sim",
+      "difficulty": "easy",
+      "incorrect_answers": ["Não"],
+      "question": "Antonio já traiu Natália?",
+      "type": "boolean"
+    },
+    {
+      "category": "default",
+      "correct_answer": "Tudo Para Amar Você",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "Que Tal",
+        "Por Supuesto",
+        "Tudo Para Amar Você (Remix Piseiro)",
+        "Mande um Sinal"
+      ],
+      "question": "Em que música da Marina Sena o Antonio pediu a mão da Natália?",
+      "type": "",
+      "img": "mada.jpeg"
+    },
+    {
+      "category": "default",
+      "correct_answer": "Sexo, Cocaína e Assasinato - FBC",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "Planos - BK",
+        "Minha Mulher Acha que Sou o Brad Pitt - Nill",
+        "Como Eu Te Quero - Black Alien"
+      ],
+      "question": "Qual a primeira música que Antonio mandou para Natália?",
+      "type": "multiple"
+    },
+    {
+      "category": "default",
+      "correct_answer": "Nenhuma das alternativas, afinal, não trouxemos ainda!",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "Dia 01/01/2023",
+        "Dia 02/07/2023",
+        "Dia 05/04/2024"
+      ],
+      "question": "Qual dia vocês trouxeram a fita dupla face para Antonio pregar o quadro na parede?",
+      "type": "multiple"
+    },
+    {
+      "category": "default",
+      "correct_answer": "Maus",
+      "difficulty": "easy",
+      "incorrect_answers": ["Bons", "Ruins", "Razoáveis"],
+      "question": "Qual livro Natália emprestou para Priscila?",
+      "type": "multiple"
+    },
+    {
+      "category": "default",
+      "correct_answer": "Todas as Alternativas",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "Infidelidade",
+        "TDAH",
+        "Superdotação hehehe",
+        "Ruindade"
+      ],
+      "question": "Quais neurodivergências Antonio têm?",
+      "type": "multiple"
+    },
+    {
+      "category": "default",
+      "correct_answer": "Sônia Braga",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "Sônia Brega",
+        "Sônia Briga",
+        "Sônia Broga",
+        "Sônia Bruga"
+      ],
+      "question": "Qual a maior ídola de Natália?",
+      "type": "multiple"
+    },
+    {
+      "category": "default",
+      "correct_answer": "Priscila e Guilherme",
+      "difficulty": "easy",
+      "incorrect_answers": [
+        "Luciano Prefeiro e Val Araújo",
+        "Merdinha e Piauí",
+        "Mendes Neto e Raysla"
+      ],
+      "question": "Quais serão os padrinhos/testemunhas de casamento de Natália e Antonio?",
+      "type": "multiple"
+    },
+    {
+      "category": "default",
+      "correct_answer": "Lógico que sim!",
+      "difficulty": "easy",
+      "incorrect_answers": ["Não, obrigado, odiamos vocês dois"],
+      "question": "Aliás, esquecemos de perguntar, vocês aceitam ser nossos padrinhos/testemunhas de casamento?",
+      "type": "boolean"
+    }
+  ]
+}
