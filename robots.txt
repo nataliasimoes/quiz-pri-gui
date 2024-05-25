@@ -1,0 +1,6 @@
+# START nuxt-simple-robots (indexable)
+User-agent: *
+Disallow: 
+
+Sitemap: https://quizzler.jooo.my.id/sitemap.xml
+# END nuxt-simple-robots
