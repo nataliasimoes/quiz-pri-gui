@@ -2,5 +2,5 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://quizzler.jooo.my.id/sitemap.xml
+Sitemap: https://nataliasimoes.github.io/quiz-pri-gui/sitemap.xml
 # END nuxt-simple-robots
